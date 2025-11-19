@@ -1,0 +1,5 @@
+{
+  "name": "GitBot AI - Repository Manager",
+  "description": "An AI-powered GitHub assistant that helps you manage repositories, upload files, extract archives, and generate documentation using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
